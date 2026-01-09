@@ -14,19 +14,19 @@ Demonstrates a complete end-to-end data pipeline, integrating API ingestion, orc
 
 ### 2. [dbt-btc-project](https://github.com/DavidEMDias/dbt-btc-project)  
 A full pipeline demonstrating cloud storage, data transformations, CI/CD workflows, and visualizations. Provides a practical foundation for building reliable data workflows.  
-**Technologies:** Python, dbt, BigQuery, CI/CD  
+**Technologies:** Python, SQL, dbt, Snowflake, CI/CD, Looker, AWS S3
 
 ---
 
 ### 3. [gades-proj-final](https://github.com/DavidEMDias/gades-proj-final)  
 Extracts data from a MySQL database, stores it in a data lake as JSON, and loads it into **BigQuery**. Uses dbt for transformations following the Medallion Architecture, producing actionable insights.  
-**Technologies:** Python, MySQL, BigQuery, dbt  
+**Technologies:** Python, MySQL, BigQuery, dbt, GCS
 
 ---
 
 ### 4. [youtube-api-elt-pipeline](https://github.com/DavidEMDias/youtube-api-elt-pipeline)  
 A robust ELT pipeline built with **Python, Docker, and Airflow**, including **unit & data quality tests** and **CI/CD workflows** to ensure reliability and scalability.  
-**Technologies:** Python, Docker, Airflow, CI/CD  
+**Technologies:** Python, Docker, Airflow, SODA, CI/CD  
 
 ---
 
@@ -46,8 +46,8 @@ Collection of five Python pipelines of increasing complexity, showcasing ETL wit
 
 - **Languages & Frameworks:** Python, SQL, dbt  
 - **Orchestration:** Airflow  
-- **Containers & DevOps:** Docker, CI/CD  
-- **Storage:** MySQL, BigQuery, Data Lake  
+- **Containers & DevOps:** Docker, CI/CD GitHub Actions  
+- **Storage:** MySQL, PostgreSQL, BigQuery, Snowflake, Data Lake  
 - **Best Practices:** Data Quality Tests, Unit Tests, Medallion Architecture  
 
 ---
