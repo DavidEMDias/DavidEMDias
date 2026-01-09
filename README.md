@@ -1,6 +1,6 @@
 # DavidEMDias | Data Engineering Portfolio 🚀
 
-Welcome to my **Data Engineering** portfolio! Here you will find projects showcasing ELT/ETL pipelines, data automation, transformations with **dbt**, orchestration with **Airflow**, cloud storage (**BigQuery**), and best practices in **CI/CD and data quality testing**.
+Welcome to my **Data Engineering** portfolio! Here you will find projects showcasing ELT/ETL pipelines, leveraging **Python** and **SQL**, data automation, transformations with **dbt**, orchestration with **Airflow**, cloud storage (**BigQuery,** **Snowflake**), and best practices in **CI/CD and data quality testing**.
 
 ---
 
