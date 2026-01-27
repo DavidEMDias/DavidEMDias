@@ -18,7 +18,7 @@ A full pipeline demonstrating cloud storage, data transformations, CI/CD workflo
 
 ---
 
-### 3. [Cloud Data Warehouse](https://github.com/DavidEMDias/gades-proj-final)  
+### 3. [Cloud DWH End-to-End Data Engineering Pipeline: MySQL → GCS → BigQuery](https://github.com/DavidEMDias/gades-proj-final)  
 Extracts data from a MySQL database, stores it in a data lake as JSON, and loads it into **BigQuery**. Uses dbt for transformations following the Medallion Architecture, producing actionable insights.  
 **Technologies:** Python, MySQL, BigQuery, dbt, GCS
 
