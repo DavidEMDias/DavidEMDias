@@ -36,7 +36,7 @@ Ingests football standings from **API-Football** and upserts them into a MySQL d
 
 ---
 
-### 6. [Data Sales Lab Pipeline](https://github.com/DavidEMDias/PL-Standings-API-pipeline](https://github.com/DavidEMDias/data-saleslab))  
+### 6. [Data Sales Lab Pipeline](https://github.com/DavidEMDias/data-saleslab)  
 Ingests sales-related data from local files and object storage into Postgres, orchestrates the pipeline with Airflow, and applies transformations with dbt to produce analytics-ready models.  
 **Technologies:** Python, MinIO(S3), Postgres, SQL, dbt, Airflow, Docker
 
